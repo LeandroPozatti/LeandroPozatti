@@ -2,8 +2,8 @@
 Engenheiro de Qualidade I Data Science & Analytics - linguagens: R e Python
 
 <div style="display:inline">
-<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+&nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
 </div>
 
 ## Você também me encontra no: 
